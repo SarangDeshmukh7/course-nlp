@@ -70,3 +70,4 @@ If you took the fast.ai deep learning course, that is what we used.  You can hea
 All that to say, don't worry if you don't understand everything at first!  You're not supposed to.  We will start using some "black boxes" and then we'll dig into the lower level details later.
 
 To start, focus on what things DO, not what they ARE.
+.
